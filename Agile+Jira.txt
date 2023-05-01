@@ -1,0 +1,169 @@
+AGILE:
+
+*Agile is an approach to software development under which requiremnets and  solutions evolve through the collaborative effort of self-organizing and cross - functional teams and their customer/end user.
+*Both development and testing activities are concurrent unlike the waterfall model.
+AGILE TEAM: It is a collection of multiple like testers ,developers,product manager,etc.. will be the part.
+* In this ,  the role is not important the task is important like no seniors and juniors everybody will fall under the same.
+* In agile process developing and testing goes parallel.
+*Whenever a client need to change any requirments , we can esaily accommodate those requirements.
+
+TERMINOLOGIES[EPIC,STORY,TASK]:
+
+FUNCTIONAL REQUIREMENTS DOCUMENT: which contains the requirements which are specified by the customer.
+*In the agile process documentation required will be avoided 90%.
+*The epic and stories are derived by product owner/scrum master.
+EPIC: epic is a large requirement define the business needs[ONLINE BANKING]
+STORY: It is a smaller requirement [LOGIN,TRANSFER MONEY, CHECK BALANCE]
+TASK: 
+Review the story
+Estinate the story
+Desugn
+Code
+Unit Testing
+Intefration Testing
+etc..
+
+QA:
+Review the story 
+Test Cases
+Test Scenarios
+Test data
+Reviews
+Test Environment
+Report Bugs
+etc..
+
+AGILE ROLES:
+PRODUCT OWNER: he is aperson responsible for getting the requirements from the customer.
+*define the features of the product
+*decide on release date and content
+*prioritize features according to market value
+*adjust features and priority every iteration ,as needed
+*accept or rejecr work results.
+
+SCRUM MASTER: who is factilitator the complete agile process.
+*Enable close cooperation across all roles and functions.
+
+SCRUM TEAM: developers and testers should work together to get the deliver.
+
+DOR(DEFINATION OF READY): 
+*user story is clear.
+*user story is testable
+*user story is feasible
+*user story defined
+*user story acceptance criteria defined
+*user story dependencies identified
+*user story sized by development team
+*scrum team accepts user experience artefacts.
+*performance criteria identifed ,where appropriate
+*scalability criteria identified ,where approprite
+*security criteria identified, where appropriate
+*person who will accept the story is identified
+*Team has a good idea what it will mean to demo the user story.
+
+DOD(DEFINATION OF DONE):
+*code produced(all to doitems in code completed)
+*code commented ,checked inand run against current version in source 
+*Relevant documentation.diagrams produced and / or updated.
+
+PRODUCT BACKLOG: It is prepared by prodct owner and which contains the requiremnets.[contains complete stories]
+SPRINT/ITERATION: time interval to complete a task one version of software.
+SPRINT BACKLOG: contains the commited storys
+
+STEPS:
+1.product owner: cerate baclog
+*sprint:Time interval
+*Story Point: developers and QA give estimation for the specific story.
+* Estimation gives in the fibonaccci series 
+2.Meeting
+3.Sprint Backlog: sprint interval, evaryday scrum meeting[15min]
+4.finished work[sprint review, sprint retrospective]
+
+ADVANTAGES OF AGILE SCRUM:
+*we can save time and cost of the project.
+*the quality can be ensured because each and every sprint will be tested multiple times.
+*The requirements change can be accepted at any level of the project maintenanace.
+*All the participating in scrum meting so that transparency can be maintained.
+*Each and every sprint we are delivering to the client so we can maintain the customer satisfaction and we can avoid deliveryrisk  of the project.
+
+
+----------------------JIRA TOOL---------------------------------
+
+Managing agile process
+        *create backlogs
+         *create sprints
+         *tasks
+         * update story status scrum board
+write test cases
+Execute test cases update of the test cases
+
+
+AGILE SCRUM ACTIVITIES:
+1.How to install and configure JIRA Tool
+
+2.How to create project in Jira
+sigin > create new project > select template [scrum] > create
+
+3.How to add users/people in Jira
+Jira setting > invite user
+
+[backlog are created while doing the projects]
+
+4.How to create  User stories in Jira
+Baclog page > create > by default story is selected > add summary feature/title > add issue > create.
+[update the sprint points in every story]
+
+5.Creating sprint in Jira
+Backlog page > create sprint
+
+6.Adding user stories to sprint
+Backlog > drag and drop story into Sprint.
+
+7.starting sprint
+Backlog > start sprint
+
+8.adding sub tasks to story
+Board > click story > add child issuse.
+
+9.sprint life cycle in Jira
+10.creating bugs in Jira
+
+TEST MANAGEMENT ACTIVITIES:
+
+Pre -requisites:
+1)Dashboard > apps > explore > search > Zephyr > try
+2)Adding issue type > project settings > Issue types > add new issuse > type "test".
+
+1.How to create test cases in Jira with Zephyr plugin
+2.creating Test cycles
+3.Executr/update test cases in Jira
+
+ISSUES TYPES IN JIRA:
+Epic
+story
+task 
+bug 
+task
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
